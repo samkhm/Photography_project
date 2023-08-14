@@ -1,0 +1,189 @@
+.head{
+    background-image: url(https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg);
+    object-fit: cover;
+    width: 100%;
+    position: absolute;
+    height: 60%;
+    margin-top: 0;
+    margin-left: 0;
+    display: flex;
+    flex-direction: row;
+    
+}
+.about{
+    
+    position: absolute;
+    margin-left: 90%;
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+ a{
+    padding: 6px;
+    background-color: red;
+    border-radius: 5px;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 100;
+ }
+ a:hover{
+    background-color: blueviolet;
+ }
+.title{
+    
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 35%;
+    
+}
+.contact{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 50%;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+}
+.cover{
+    background-color: rgb(129, 33, 219, .5);
+    object-fit: cover;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    display: flex;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color:rgba(128, 0, 128, 0.918);
+}
+
+.biog{
+    margin-top:33%;
+    text-align: justify;
+    padding: 30px;
+    background-color: blue;
+    display: flex;
+    position: absolute;
+    width: fit-content;
+}
+.biog p{
+    color: white;
+}
+.bg{
+    margin-top: 24%;
+    
+    
+    justify-content: center;
+
+
+}
+
+.bg h2{
+    font-size: 60px;
+    color: white;
+    font-family: sans-serif;
+}
+.images{
+    margin-top: 44%;
+    background-color:rgba(128, 0, 128, 0.918);
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 100%;
+    justify-content: space-around;
+}
+.img1{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    
+    
+}
+.images_2{
+    margin-top: 60%;
+    background-color:rgba(128, 0, 128, 0.918);
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 100%;
+    justify-content: space-around;
+}
+.img1{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    
+    
+}
+.forms{
+    
+    position: absolute;
+    height: fit-content;
+    width: fit-content;
+    background-color: blue;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    margin-top: 100%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    padding: 5px 3px;
+
+}
+form * {
+    color: white;
+    outline: none;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.2px; 
+ }
+ 
+label {
+    display: block;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+input {
+    display: block;
+    height: 50px;
+    width: fit-content;
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    padding: 0 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+button {
+    margin-top: 50px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+footer{
+    margin-top: 78%;
+    position: absolute;
+    width: 100%;
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
