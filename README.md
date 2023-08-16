@@ -2,6 +2,12 @@
 This project is for my site I designed for the purpose of advertising my Job to the world.<br> This is a photography web page showing what takes place in my team with samples of the photos and how you can access us.
 ## Author
 @samkhm
+## Technologies :hammer:
+
+This app was created using:
+
+- HTML
+- CSS
 
 ## Links
 [Favourite Band Page](https://github.com/samkhm/Photography_project.git)
