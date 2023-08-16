@@ -1,25 +1,75 @@
-# PHOTOGRAPHIC WEBSITE
-This project is for my site I designed for the purpose of advertising my Job to the world.<br> This is a photography web page showing what takes place in my team with samples of the photos and how you can access us.
-## Author
-This project was created and mantained by:
-- Samuel kimanthi
-## Technologies :hammer:
+# PHOTOGRAPHIC SITE
+This project is for my site I designed for the purpose of advertising my Job to the world.
+This is a photography web page showing what takes place in my team with samples of the photos and how you can access us.
 
-This site was created using:
-
-- HTML
+## Tools
+This project was built with the following:
+- HTML5
 - CSS
 
-## Links
-[Favourite Band Page](https://github.com/samkhm/Photography_project.git)
-[live site](https://samkhm.github.io/Photography_project/)
-@samkhm
-## Web Design
-![Web design](https://lh3.googleusercontent.com/pw/AIL4fc8B5aWEx6rrtH8JFVjMv0eXQA9SGe_QCCj76a2QY0w-ZyLQiRaagxt4ysiT_NX9O9UpzbFnqlvslBvNhaLc5O8MRdzFXlbg_oPADeJC1rCU0Y7xdrJmxaMM1kXsM18jLTY-6g0HH9NPL8i4csKAG-GoKWzo4GHaXOKLCOsLF9av-a9F9V1Fnb7m96I9WLpf424LtwtVim27t_dF2KvPsFWn2-Nz-5Dg73HWKs1KBAQxdNq-YK7flFS3Q-pk9hXut9x9aXZDtNp8gPzRIbQvMunqQUFKAHhqhrPl6abb_jxsk6vhLR7RAwLG6cK-LiLgAv1s52wb5symSRSsfzE8xjn0jf1ZolfREpH3qWAkYzpHkFsbqfo9iLsIyvUKbn4TLuJ4-AAA0iV5WjS3K36c2FnJaetAHrsABFDGiZQnYLiMci2Abx7yfm2xAAqwQxZpCM6SGg62c8uQ0WlHo-D5S91mkZf8TN9pz0zgvfMK_Fxb9GsvXoAnPaGouz5CT932mB7GDdHnLFs2YFEtRXSvugukDh-2ZRzDORUBWEUaWRk-3NvuYXucBeIuj5iRZsf8jRFyj9aUe1qrOtyCNHDe9Dtxa5MgrIIYGjCF8ocBxkOfGjlZCHgcScjQnxmOtZnc4bWdsALlioEqNguEo8ubBb-pZISW_jEU2ohyqfzrAAycIJMgLxqwCPEdcgDo4kJHj3m95dZlt3Ko7_hGlErpNqgY9hPsNZrM2yguxlzMkSkTVvf0hvKP0wIWIGoA8VxY33gPGgu3RXJ5SN0Lir8JlxcoJDxtqrmJfaCtLPOjpI7lG8I7X5sLcFrTaDF1BINepzX3cHgfFGy_yn1MCJc5rpVmz4ChqxlORPaYG0fVYO8ZY-oBC5mGrQV50SBYoFxzsjeAkZwoq8qwHw7T4XuJ-Pzp=w460-h651-s-no?authuser=0)
-## Set Up Instructions
-Step 1: Authenticate Yourself and Your Machine.<br>
-Step 2: Add the Key to Your Github Account. <br>
-Step 3: Create a Github Repository. <br>
-Step 4: Clone Your Repository. <br>
-Step 5: Push Your Commits and files
+## Pre-requisites
+To run the following site you need the following:
 
+- Linux / windows / MacOs
+- 4GB RAM
+
+## Setup Instructions
+This section will guide you on how you can set up and run this site on your machine.
+
+1. Clone the repository to your local machine. On your computer open the `Terminal` (*Linux/MacOs*)
+or `GitBash` (**Windows**)
+
+```
+git clone https://github.com/samkhm/Photography_project.git
+```
+2. Change into working directory
+```
+cd change to working directory
+```
+
+3. open in vs code
+
+```
+code .
+```
+
+4. Run on the browser opening it in `liveserver`
+
+## Screenshots
+Look sample of work being done in this picture
+
+![Webimage](https://photos.google.com/photo/AF1QipPONbqvhGSk7YyP9zfBw1ncfjSP5qpMAonrhOo4)
+
+## Author Information
+This project was build and being mantained by
+- [Samuel Kimanthi](https://github.com/samkhm)
+
+## Issues
+No issues in this version
+
+## License
+This project has been built using `MIT license`
+
+```
+MIT License
+
+Copyright (c) 2023 samuel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
