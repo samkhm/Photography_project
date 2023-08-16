@@ -4,7 +4,7 @@ This project is for my site I designed for the purpose of advertising my Job to 
 @samkhm
 ## Technologies :hammer:
 
-This app was created using:
+This site was created using:
 
 - HTML
 - CSS
